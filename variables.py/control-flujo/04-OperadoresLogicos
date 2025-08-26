@@ -1,0 +1,26 @@
+# and, or, not
+
+gas = False
+encendido = True
+edad = 18
+
+# if gas and encendido:
+#     print("El coche está en marcha")
+# else:
+#     print("El coche está parado")
+
+# if gas or encendido:
+#     print("El coche está en marcha")
+# else:
+#     print("El coche está parado")
+
+# if not gas and (encendido and edad >= 18):
+#     print("El coche está en marcha")
+# else:
+#     print("El coche está parado")
+
+
+if not gas and encendido and edad >= 18:
+    print("El coche está en marcha")
+else:
+    print("El coche está parado")

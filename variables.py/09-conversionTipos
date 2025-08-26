@@ -1,0 +1,11 @@
+#
+
+# int()
+# str()
+# float()
+# bool() falsy " ", "0", none y truthy values
+print(bool(""))
+print(bool("0"))
+print(bool(None))
+print(bool(" "))
+print(bool(0))
