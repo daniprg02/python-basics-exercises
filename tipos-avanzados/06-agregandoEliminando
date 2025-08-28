@@ -1,0 +1,12 @@
+mascotas = ["Darky", "Ciri", "Pelusa", "Nisky", "Darky", "Ciri"]
+
+mascotas.insert(1, "Trico")  # Inserta en el índice pasado por parámetro
+mascotas.append("Trico baby")  # Inserta al final de la lista
+
+mascotas.remove("Ciri")  # Elimina sólo la primera ocurrencia
+mascotas.pop(1)  # Elimina por índice
+del mascotas[0]
+
+mascotas.clear()  # Vacía toda la lista
+
+print(mascotas)
