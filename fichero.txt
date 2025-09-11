@@ -1,0 +1,3 @@
+Hola, este es un fichero de prueba.
+salir
+Segunda línea de texto.
