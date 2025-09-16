@@ -1,6 +1,6 @@
-# Python Basics Exercises 🐍
+# DAM2
 
-This repository contains my practice exercises and projects while learning the fundamentals of **Python programming**.
+This repository contains my practice exercises and projects while learning the fundamentals of **Programming**.
 
 ## 📘 Topics Covered
 - Variables and data types
